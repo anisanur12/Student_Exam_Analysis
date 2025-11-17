@@ -1,4 +1,4 @@
-# student Performance Analysis 
+# Student Performance Analysis 
 ## Analysis of Factors Affecting Student Performance 
 
 
